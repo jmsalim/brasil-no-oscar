@@ -160,15 +160,15 @@ svg text { fill: var(--ink-2); font-family: system-ui, -apple-system, "Segoe UI"
 .gap-band { fill: var(--gap-band); }
 .section-title { font-size: 12px; font-weight: 600; fill: var(--ink); }
 .lane-label { font-size: 12px; }
-.film-label { font-size: 11px; fill: var(--ink); }
-.leader { stroke: var(--axis); stroke-width: 1; }
+.film-label { font-size: 11px; fill: var(--ink); pointer-events: none; }
+.leader { stroke: var(--axis); stroke-width: 1; pointer-events: none; }
 .hover-guide { stroke: var(--ink-2); stroke-width: 1; opacity: 0; pointer-events: none; }
 .hover-guide.on { opacity: 0.5; }
 
 .film { cursor: pointer; outline: none; }
 .film .hit { fill: transparent; }
 .film:focus-visible .hit { stroke: var(--focus); stroke-width: 2; }
-.film.dim { opacity: 0.15; }
+.film.dim, .film-label.dim, .leader.dim { opacity: 0.15; }
 .film.selected .hit { fill: var(--grid); }
 
 .m-not { fill: var(--muted); }
@@ -245,11 +245,14 @@ svg text { fill: var(--ink-2); font-family: system-ui, -apple-system, "Segoe UI"
 table { border-collapse: collapse; width: 100%; font-size: 0.85rem; }
 th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
 th { font-weight: 600; color: var(--ink-2); white-space: nowrap; }
+th[scope="row"] { white-space: normal; }
+.decade-table th, .decade-table td { padding: 6px 5px; }
 td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 td.zero { color: var(--grid); }
 tr.dim td { opacity: 0.35; }
 tr.gap-row td { color: var(--muted); font-style: italic; }
 .film-table td .conf-note { color: var(--muted); }
+.linkish,
 .film-table button {
   font: inherit;
   color: var(--wiki-ink);
@@ -272,6 +275,8 @@ summary h2 { display: inline; }
   .stats dd { font-size: 1.4rem; }
   .tag-list li { grid-template-columns: minmax(0, 1fr) auto; }
   .tag-type { grid-column: 1 / -1; }
+  .facts { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .facts dd { margin-bottom: 8px; }
 }
 @media (forced-colors: active) {
   .gap-band { fill: Canvas; stroke: GrayText; }
