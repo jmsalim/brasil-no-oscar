@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brasil no Oscar</title>
+  <meta name="description" content="Every film Brazil has submitted for the Academy Award for Best International Feature Film, 1960 to 2026, on one timeline.">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <header class="page-head">
+    <h1>Brasil no Oscar</h1>
+    <p class="lede">Every film Brazil has submitted for the Academy Award for Best International Feature Film, from 1960 to 2026, on one timeline.</p>
+    <dl class="stats" id="stats" aria-live="polite"></dl>
+  </header>
+
+  <main>
+    <section class="panel" aria-labelledby="timeline-title">
+      <div class="panel-head">
+        <h2 id="timeline-title">Timeline</h2>
+        <div class="controls" role="group" aria-label="Timeline filters">
+          <label>Highlight theme
+            <select id="theme-select"><option value="">All films</option></select>
+          </label>
+          <label>Claude's tags shown
+            <select id="confidence-select">
+              <option value="low">All confidence levels</option>
+              <option value="medium">Medium and high</option>
+              <option value="high">High only</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <p class="theme-note" id="theme-note" hidden></p>
+      <div class="legend" id="legend"></div>
+      <div class="chart" id="chart">
+        <p class="loading" id="loading">Loading the data…</p>
+      </div>
+      <p class="hint">Hover over or tab to a film to see it; click or press Enter to open its full record below.</p>
+    </section>
+
+    <div class="two-col">
+      <section class="panel" id="detail" aria-labelledby="detail-title" tabindex="-1">
+        <h2 id="detail-title">Film record</h2>
+        <p class="muted">Pick a film on the timeline to see its full record, with Wikipedia's facts and Claude's tags kept apart.</p>
+      </section>
+
+      <section class="panel" aria-labelledby="decades-title">
+        <h2 id="decades-title">Movements by decade</h2>
+        <p class="muted small">Films per movement tag in each decade. A film can carry two movement tags. <span class="src src-claude">Claude's tags</span>, filtered by the confidence setting above.</p>
+        <div class="table-wrap" id="decade-table"></div>
+      </section>
+    </div>
+
+    <section class="panel" aria-labelledby="table-title">
+      <details id="film-table-details">
+        <summary><h2 id="table-title">All submissions as a table</h2></summary>
+        <div class="table-wrap" id="film-table"></div>
+      </details>
+    </section>
+  </main>
+
+  <footer class="page-foot" id="sources"></footer>
+  <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+</body>
+</html>
