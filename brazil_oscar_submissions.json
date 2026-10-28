@@ -1,0 +1,1269 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_Brazilian_submissions_for_the_Academy_Award_for_Best_International_Feature_Film",
+  "retrieved": "2026-10-26",
+  "record_count": 56,
+  "field_notes": {
+    "year": "Film/eligibility year as shown in the table's 'Year (Ceremony)' column",
+    "ceremony_year": "Derived as year + 1 (the calendar year the ceremony was held); not in the source table",
+    "result_code": "Normalized from result: not_nominated, shortlisted, nominated, won, disqualified, pending",
+    "brazilian_shortlist_competitors": "From the page's separate table of other films on Brazil's national selection shortlist (only 2022 to 2026)",
+    "parse_flags": "Non-empty when a value was inferred rather than read directly from a cell"
+  },
+  "films": [
+    {
+      "id": "br-1960",
+      "year": 1960,
+      "ceremony": "33rd",
+      "ceremony_number": 33,
+      "ceremony_year": 1961,
+      "title_english": "Death Commands Brigandage",
+      "title_original": "A Morte Comanda o Cangaço",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Coimbra",
+        "Walter Guimarães Motta"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-1962",
+      "year": 1962,
+      "ceremony": "35th",
+      "ceremony_number": 35,
+      "ceremony_year": 1963,
+      "title_english": "Keeper of Promises",
+      "title_original": "O Pagador de Promessas",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Anselmo Duarte"
+      ],
+      "result": "Nominated",
+      "result_code": "nominated",
+      "notes": "Also known as The Given Word and The Promise.",
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1964",
+      "year": 1964,
+      "ceremony": "37th",
+      "ceremony_number": 37,
+      "ceremony_year": 1965,
+      "title_english": "Black God, White Devil",
+      "title_original": "Deus e o Diabo na Terra do Sol",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Glauber Rocha"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1965",
+      "year": 1965,
+      "ceremony": "38th",
+      "ceremony_number": 38,
+      "ceremony_year": 1966,
+      "title_english": "São Paulo, Incorporated",
+      "title_original": "São Paulo, Sociedade Anônima",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Luis Sérgio Person"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1967",
+      "year": 1967,
+      "ceremony": "40th",
+      "ceremony_number": 40,
+      "ceremony_year": 1968,
+      "title_english": "Case of the Naves Brothers",
+      "title_original": "O Caso dos Irmãos Naves",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Luis Sérgio Person"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down",
+        "directors_from_merged_cell: Director cell is a merged cell shared with the 1965 row; value read from the page, not inferred"
+      ]
+    },
+    {
+      "id": "br-1968",
+      "year": 1968,
+      "ceremony": "41st",
+      "ceremony_number": 41,
+      "ceremony_year": 1969,
+      "title_english": "The Amorous Ones",
+      "title_original": "As Amorosas",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Walter Hugo Khouri"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1969",
+      "year": 1969,
+      "ceremony": "42nd",
+      "ceremony_number": 42,
+      "ceremony_year": 1970,
+      "title_english": "Antonio das Mortes",
+      "title_original": "O Dragão da Maldade contra o Santo Guerreiro",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Glauber Rocha"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1970",
+      "year": 1970,
+      "ceremony": "43rd",
+      "ceremony_number": 43,
+      "ceremony_year": 1971,
+      "title_english": "Mortal Sin",
+      "title_original": "Pecado Mortal",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Miguel Faria Jr."
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1971",
+      "year": 1971,
+      "ceremony": "44th",
+      "ceremony_number": 44,
+      "ceremony_year": 1972,
+      "title_english": "Pra Quem Fica, Tchau",
+      "title_original": "Pra Quem Fica, Tchau",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Reginaldo Faria"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down",
+        "original_title_inferred: Original title cell is merged with the English title (same title in both languages)"
+      ]
+    },
+    {
+      "id": "br-1972",
+      "year": 1972,
+      "ceremony": "45th",
+      "ceremony_number": 45,
+      "ceremony_year": 1973,
+      "title_english": "How Tasty Was My Little Frenchman",
+      "title_original": "Como Era Gostoso o Meu Francês",
+      "languages": [
+        "Portuguese",
+        "French",
+        "Tupi"
+      ],
+      "directors": [
+        "Nelson Pereira dos Santos"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-1973",
+      "year": 1973,
+      "ceremony": "46th",
+      "ceremony_number": 46,
+      "ceremony_year": 1974,
+      "title_english": "João and the Knife",
+      "title_original": "A Faca e o Rio",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "George Sluizer"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-1974",
+      "year": 1974,
+      "ceremony": "47th",
+      "ceremony_number": 47,
+      "ceremony_year": 1975,
+      "title_english": "The Scarecrow's Night",
+      "title_original": "A Noite do Espantalho",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Sérgio Ricardo"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1975",
+      "year": 1975,
+      "ceremony": "48th",
+      "ceremony_number": 48,
+      "ceremony_year": 1976,
+      "title_english": "The Amulet of Ogum",
+      "title_original": "O Amuleto de Ogum",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Nelson Pereira dos Santos"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1976",
+      "year": 1976,
+      "ceremony": "49th",
+      "ceremony_number": 49,
+      "ceremony_year": 1977,
+      "title_english": "Xica",
+      "title_original": "Xica da Silva",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1977",
+      "year": 1977,
+      "ceremony": "50th",
+      "ceremony_number": 50,
+      "ceremony_year": 1978,
+      "title_english": "Tent of Miracles",
+      "title_original": "Tenda dos Milagres",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Nelson Pereira dos Santos"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1978",
+      "year": 1978,
+      "ceremony": "51st",
+      "ceremony_number": 51,
+      "ceremony_year": 1979,
+      "title_english": "The Lyre of Delight",
+      "title_original": "A Lira do Delírio",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Walter Lima Jr."
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1980",
+      "year": 1980,
+      "ceremony": "53rd",
+      "ceremony_number": 53,
+      "ceremony_year": 1981,
+      "title_english": "Bye Bye Brazil",
+      "title_original": "Bye Bye Brasil",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1981",
+      "year": 1981,
+      "ceremony": "54th",
+      "ceremony_number": 54,
+      "ceremony_year": 1982,
+      "title_english": "Pixote",
+      "title_original": "Pixote: A Lei do Mais Fraco",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Héctor Babenco"
+      ],
+      "result": "Disqualified",
+      "result_code": "disqualified",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1984",
+      "year": 1984,
+      "ceremony": "57th",
+      "ceremony_number": 57,
+      "ceremony_year": 1985,
+      "title_english": "Memoirs of Prison",
+      "title_original": "Memórias do Cárcere",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Nelson Pereira dos Santos"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1986",
+      "year": 1986,
+      "ceremony": "59th",
+      "ceremony_number": 59,
+      "ceremony_year": 1987,
+      "title_english": "Hour of the Star",
+      "title_original": "A Hora da Estrela",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Suzana Amaral"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1987",
+      "year": 1987,
+      "ceremony": "60th",
+      "ceremony_number": 60,
+      "ceremony_year": 1988,
+      "title_english": "Subway to the Stars",
+      "title_original": "Um Trem para as Estrelas",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1988",
+      "year": 1988,
+      "ceremony": "61st",
+      "ceremony_number": 61,
+      "ceremony_year": 1989,
+      "title_english": "The Story of Fausta",
+      "title_original": "Romance da Empregada",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Bruno Barreto"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1989",
+      "year": 1989,
+      "ceremony": "62nd",
+      "ceremony_number": 62,
+      "ceremony_year": 1990,
+      "title_english": "Better Days Ahead",
+      "title_original": "Dias Melhores Virão",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1991",
+      "year": 1991,
+      "ceremony": "64th",
+      "ceremony_number": 64,
+      "ceremony_year": 1992,
+      "title_english": "Exposure",
+      "title_original": "A Grande Arte",
+      "languages": [
+        "Brazilian Portuguese",
+        "English",
+        "Spanish"
+      ],
+      "directors": [
+        "Walter Salles"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-1995",
+      "year": 1995,
+      "ceremony": "68th",
+      "ceremony_number": 68,
+      "ceremony_year": 1996,
+      "title_english": "O Quatrilho",
+      "title_original": "O Quatrilho",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Fábio Barreto"
+      ],
+      "result": "Nominated",
+      "result_code": "nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "original_title_inferred: Original title cell is merged with the English title (same title in both languages)"
+      ]
+    },
+    {
+      "id": "br-1996",
+      "year": 1996,
+      "ceremony": "69th",
+      "ceremony_number": 69,
+      "ceremony_year": 1997,
+      "title_english": "Tieta of Agreste",
+      "title_original": "Tieta do Agreste",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1997",
+      "year": 1997,
+      "ceremony": "70th",
+      "ceremony_number": 70,
+      "ceremony_year": 1998,
+      "title_english": "Four Days in September",
+      "title_original": "O Que é Isso, Companheiro?",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Bruno Barreto"
+      ],
+      "result": "Nominated",
+      "result_code": "nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1998",
+      "year": 1998,
+      "ceremony": "71st",
+      "ceremony_number": 71,
+      "ceremony_year": 1999,
+      "title_english": "Central Station",
+      "title_original": "Central do Brasil",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Walter Salles"
+      ],
+      "result": "Nominated",
+      "result_code": "nominated",
+      "notes": "Also nominated for Best Actress.",
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-1999",
+      "year": 1999,
+      "ceremony": "72nd",
+      "ceremony_number": 72,
+      "ceremony_year": 2000,
+      "title_english": "Orfeu",
+      "title_original": "Orfeu",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down",
+        "original_title_inferred: Original title cell is merged with the English title (same title in both languages)"
+      ]
+    },
+    {
+      "id": "br-2000",
+      "year": 2000,
+      "ceremony": "73rd",
+      "ceremony_number": 73,
+      "ceremony_year": 2001,
+      "title_english": "Me, You, Them",
+      "title_original": "Eu, Tu, Eles",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Andrucha Waddington"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2001",
+      "year": 2001,
+      "ceremony": "74th",
+      "ceremony_number": 74,
+      "ceremony_year": 2002,
+      "title_english": "Behind the Sun",
+      "title_original": "Abril Despedaçado",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Walter Salles"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2002",
+      "year": 2002,
+      "ceremony": "75th",
+      "ceremony_number": 75,
+      "ceremony_year": 2003,
+      "title_english": "City of God",
+      "title_original": "Cidade de Deus",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Fernando Meirelles"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": "Not nominated for this category; nominated the following year (76th ceremony) in four other categories.",
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2003",
+      "year": 2003,
+      "ceremony": "76th",
+      "ceremony_number": 76,
+      "ceremony_year": 2004,
+      "title_english": "Carandiru",
+      "title_original": "Carandiru",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Héctor Babenco"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down",
+        "original_title_inferred: Original title cell is merged with the English title (same title in both languages)"
+      ]
+    },
+    {
+      "id": "br-2004",
+      "year": 2004,
+      "ceremony": "77th",
+      "ceremony_number": 77,
+      "ceremony_year": 2005,
+      "title_english": "Olga",
+      "title_original": "Olga",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Jayme Monjardim"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down",
+        "original_title_inferred: Original title cell is merged with the English title (same title in both languages)"
+      ]
+    },
+    {
+      "id": "br-2005",
+      "year": 2005,
+      "ceremony": "78th",
+      "ceremony_number": 78,
+      "ceremony_year": 2006,
+      "title_english": "Two Sons of Francisco",
+      "title_original": "Dois Filhos de Francisco",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Breno Silveira"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2006",
+      "year": 2006,
+      "ceremony": "79th",
+      "ceremony_number": 79,
+      "ceremony_year": 2007,
+      "title_english": "Cinema, Aspirins and Vultures",
+      "title_original": "Cinema, Aspirinas e Urubus",
+      "languages": [
+        "German",
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Marcelo Gomes"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-2007",
+      "year": 2007,
+      "ceremony": "80th",
+      "ceremony_number": 80,
+      "ceremony_year": 2008,
+      "title_english": "The Year My Parents Went on Vacation",
+      "title_original": "O Ano em que Meus Pais Saíram de Férias",
+      "languages": [
+        "Brazilian Portuguese",
+        "Yiddish",
+        "Hebrew"
+      ],
+      "directors": [
+        "Cao Hamburger"
+      ],
+      "result": "Made shortlist",
+      "result_code": "shortlisted",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-2008",
+      "year": 2008,
+      "ceremony": "81st",
+      "ceremony_number": 81,
+      "ceremony_year": 2009,
+      "title_english": "Last Stop 174",
+      "title_original": "Última Parada 174",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Bruno Barreto"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-2009",
+      "year": 2009,
+      "ceremony": "82nd",
+      "ceremony_number": 82,
+      "ceremony_year": 2010,
+      "title_english": "Time of Fear",
+      "title_original": "Salve Geral",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Sérgio Rezende"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2010",
+      "year": 2010,
+      "ceremony": "83rd",
+      "ceremony_number": 83,
+      "ceremony_year": 2011,
+      "title_english": "Lula, Son of Brazil",
+      "title_original": "Lula: O Filho do Brasil",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Fábio Barreto"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2011",
+      "year": 2011,
+      "ceremony": "84th",
+      "ceremony_number": 84,
+      "ceremony_year": 2012,
+      "title_english": "Elite Squad: The Enemy Within",
+      "title_original": "Tropa de Elite 2: O Inimigo Agora é Outro",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "José Padilha"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2012",
+      "year": 2012,
+      "ceremony": "85th",
+      "ceremony_number": 85,
+      "ceremony_year": 2013,
+      "title_english": "The Clown",
+      "title_original": "O Palhaço",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Selton Mello"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2013",
+      "year": 2013,
+      "ceremony": "86th",
+      "ceremony_number": 86,
+      "ceremony_year": 2014,
+      "title_english": "Neighbouring Sounds",
+      "title_original": "O Som ao Redor",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Kleber Mendonça Filho"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2014",
+      "year": 2014,
+      "ceremony": "87th",
+      "ceremony_number": 87,
+      "ceremony_year": 2015,
+      "title_english": "The Way He Looks",
+      "title_original": "Hoje Eu Quero Voltar Sozinho",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Daniel Ribeiro"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2015",
+      "year": 2015,
+      "ceremony": "88th",
+      "ceremony_number": 88,
+      "ceremony_year": 2016,
+      "title_english": "The Second Mother",
+      "title_original": "Que Horas Ela Volta?",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Anna Muylaert"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2016",
+      "year": 2016,
+      "ceremony": "89th",
+      "ceremony_number": 89,
+      "ceremony_year": 2017,
+      "title_english": "Little Secret",
+      "title_original": "Pequeno Segredo",
+      "languages": [
+        "Brazilian Portuguese",
+        "English"
+      ],
+      "directors": [
+        "David Schurmann"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-2017",
+      "year": 2017,
+      "ceremony": "90th",
+      "ceremony_number": 90,
+      "ceremony_year": 2018,
+      "title_english": "Bingo: The King of the Mornings",
+      "title_original": "Bingo: O Rei das Manhãs",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Daniel Rezende"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": []
+    },
+    {
+      "id": "br-2018",
+      "year": 2018,
+      "ceremony": "91st",
+      "ceremony_number": 91,
+      "ceremony_year": 2019,
+      "title_english": "The Great Mystical Circus",
+      "title_original": "O Grande Circo Místico",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Carlos Diegues"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2019",
+      "year": 2019,
+      "ceremony": "92nd",
+      "ceremony_number": 92,
+      "ceremony_year": 2020,
+      "title_english": "The Invisible Life of Eurídice Gusmão",
+      "title_original": "A Vida Invisível de Eurídice Gusmão",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Karim Aïnouz"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2020",
+      "year": 2020,
+      "ceremony": "93rd",
+      "ceremony_number": 93,
+      "ceremony_year": 2021,
+      "title_english": "Babenco: Tell Me When I Die",
+      "title_original": "Babenco – Alguém Tem que Ouvir o Coração e Dizer: Parou",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Bárbara Paz"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2021",
+      "year": 2021,
+      "ceremony": "94th",
+      "ceremony_number": 94,
+      "ceremony_year": 2022,
+      "title_english": "Private Desert",
+      "title_original": "Deserto Particular",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Aly Muritiba"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": null,
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2022",
+      "year": 2022,
+      "ceremony": "95th",
+      "ceremony_number": 95,
+      "ceremony_year": 2023,
+      "title_english": "Mars One",
+      "title_original": "Marte Um",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Gabriel Martins"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": [
+        "Charcoal",
+        "A Mãe",
+        "Pedro, Between the Devil and the Deep Blue Sea",
+        "Pacified",
+        "Paloma"
+      ],
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2023",
+      "year": 2023,
+      "ceremony": "96th",
+      "ceremony_number": 96,
+      "ceremony_year": 2024,
+      "title_english": "Pictures of Ghosts",
+      "title_original": "Retratos Fantasmas",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Kleber Mendonça Filho"
+      ],
+      "result": "Not nominated",
+      "result_code": "not_nominated",
+      "notes": null,
+      "brazilian_shortlist_competitors": [
+        "Alien Nights",
+        "Our Dream",
+        "A Strange Path",
+        "Toll",
+        "Vultures"
+      ],
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2024",
+      "year": 2024,
+      "ceremony": "97th",
+      "ceremony_number": 97,
+      "ceremony_year": 2025,
+      "title_english": "I'm Still Here",
+      "title_original": "Ainda Estou Aqui",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Walter Salles"
+      ],
+      "result": "Won Academy Award",
+      "result_code": "won",
+      "notes": "Also nominated for Best Picture and Best Actress.",
+      "brazilian_shortlist_competitors": [
+        "Bittersweet Rain",
+        "Cidade; Campo",
+        "Heartless",
+        "Motel Destino",
+        "Power Alley"
+      ],
+      "parse_flags": [
+        "languages_inferred: Language cell is spanned from the row above (merged cell); value carried down"
+      ]
+    },
+    {
+      "id": "br-2025",
+      "year": 2025,
+      "ceremony": "98th",
+      "ceremony_number": 98,
+      "ceremony_year": 2026,
+      "title_english": "The Secret Agent",
+      "title_original": "O Agente Secreto",
+      "languages": [
+        "Brazilian Portuguese",
+        "German"
+      ],
+      "directors": [
+        "Kleber Mendonça Filho"
+      ],
+      "result": "Nominated",
+      "result_code": "nominated",
+      "notes": "Also nominated for Best Picture, Best Actor, and Best Casting.",
+      "brazilian_shortlist_competitors": [
+        "Baby",
+        "The Blue Trail",
+        "Manas",
+        "Same Old West",
+        "White House"
+      ],
+      "parse_flags": []
+    },
+    {
+      "id": "br-2026",
+      "year": 2026,
+      "ceremony": "99th",
+      "ceremony_number": 99,
+      "ceremony_year": 2027,
+      "title_english": "Gugu's World",
+      "title_original": "Feito Pipa",
+      "languages": [
+        "Brazilian Portuguese"
+      ],
+      "directors": [
+        "Allan Deberton"
+      ],
+      "result": "Pending",
+      "result_code": "pending",
+      "notes": null,
+      "brazilian_shortlist_competitors": [
+        "100 Days",
+        "The Fabulous Time Machine",
+        "The Nature of Invisible Things",
+        "On Behalf of My Son",
+        "Our Secret"
+      ],
+      "parse_flags": []
+    }
+  ]
+}

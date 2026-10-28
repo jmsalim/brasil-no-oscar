@@ -1,0 +1,2080 @@
+{
+  "about": "Descriptive tags for Brazil's Oscar submissions. The Wikipedia list has no movement, setting or theme fields, so every tag here comes from Claude's general knowledge and has not been checked against a source. confidence: high = widely documented and Claude is sure; medium = likely but worth checking; low = Claude is unsure, treat as a guess.",
+  "sources": {
+    "wikipedia_list": "The Wikipedia list the dataset was built from",
+    "claude_knowledge": "Claude's general knowledge, not verified against a source"
+  },
+  "vocabulary": {
+    "movement": [
+      "Before Cinema Novo",
+      "Cinema Novo",
+      "Collor-era slump",
+      "Contemporary cinema",
+      "Embrafilme era",
+      "Filmes de Plástico (Minas)",
+      "Independent auteur",
+      "Pernambuco cinema",
+      "Retomada"
+    ],
+    "region_macro": [
+      "Norte",
+      "Nordeste",
+      "Centro-Oeste",
+      "Sudeste",
+      "Sul"
+    ],
+    "theme": [
+      "Biography",
+      "Cangaço & banditry",
+      "City life & modernization",
+      "Class & domestic work",
+      "Colonialism & Indigenous peoples",
+      "Coming of age",
+      "Dictatorship & repression",
+      "Family",
+      "Journeys & road movies",
+      "LGBTQ+ lives",
+      "Love & sexuality",
+      "Media & celebrity",
+      "Memory & history",
+      "Migration",
+      "Music & performance",
+      "Poverty & inequality",
+      "Prison",
+      "Race & Afro-Brazilian culture",
+      "Religion & faith",
+      "Revenge & feuds",
+      "Rural life & land",
+      "Urban violence & crime",
+      "Women's lives"
+    ]
+  },
+  "films": {
+    "br-1960": [
+      {
+        "type": "movement",
+        "value": "Before Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Nordeste",
+        "state": null,
+        "macro_region": "Nordeste",
+        "place": "the sertão",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Cangaço & banditry",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Revenge & feuds",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1962": [
+      {
+        "type": "movement",
+        "value": "Before Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Salvador",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Media & celebrity",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1964": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Bahia sertão (Monte Santo)",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Cangaço & banditry",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-1965": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo city",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Class & domestic work",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1967": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "Minas Gerais",
+        "state": "Minas Gerais",
+        "macro_region": "Sudeste",
+        "place": "Araguari",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1968": [
+      {
+        "type": "movement",
+        "value": "Independent auteur",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo city",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ],
+    "br-1969": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Bahia sertão",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Cangaço & banditry",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Revenge & feuds",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1970": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Class & domestic work",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ],
+    "br-1971": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ],
+    "br-1972": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "16th-century Guanabara Bay coast",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Colonialism & Indigenous peoples",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1973": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "region",
+        "value": "Nordeste",
+        "state": null,
+        "macro_region": "Nordeste",
+        "place": "river country of the interior",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Revenge & feuds",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ],
+    "br-1974": [
+      {
+        "type": "movement",
+        "value": "Cinema Novo",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "Pernambuco",
+        "state": "Pernambuco",
+        "macro_region": "Nordeste",
+        "place": "Pernambuco sertão",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1975": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Baixada Fluminense",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-1976": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Minas Gerais",
+        "state": "Minas Gerais",
+        "macro_region": "Sudeste",
+        "place": "colonial diamond district (Diamantina)",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Colonialism & Indigenous peoples",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1977": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Salvador",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1978": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Niterói",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ],
+    "br-1980": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Norte",
+        "state": null,
+        "macro_region": "Norte",
+        "place": "Nordeste to the Amazon",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Journeys & road movies",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Media & celebrity",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1981": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo and Rio",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1984": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Alagoas to Rio prisons",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-1986": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo city",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Migration",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-1987": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1988": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Class & domestic work",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1989": [
+      {
+        "type": "movement",
+        "value": "Embrafilme era",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Media & celebrity",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1991": [
+      {
+        "type": "movement",
+        "value": "Collor-era slump",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1995": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio Grande do Sul",
+        "state": "Rio Grande do Sul",
+        "macro_region": "Sul",
+        "place": "Italian colonies of the Serra Gaúcha",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Migration",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1996": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Sergipe",
+        "state": "Sergipe",
+        "macro_region": "Nordeste",
+        "place": "Mangue Seco",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1997": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro, 1969",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-1998": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio to the Nordeste sertão",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Journeys & road movies",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Religion & faith",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-1999": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "a Rio favela at Carnival",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2000": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Ceará",
+        "state": "Ceará",
+        "macro_region": "Nordeste",
+        "place": "Ceará sertão",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2001": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Bahia sertão, 1910",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Revenge & feuds",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2002": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Cidade de Deus favela",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2003": [
+      {
+        "type": "movement",
+        "value": "Retomada",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "Carandiru prison",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2004": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio and Nazi Germany",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2005": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Goiás",
+        "state": "Goiás",
+        "macro_region": "Centro-Oeste",
+        "place": "rural Goiás",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2006": [
+      {
+        "type": "movement",
+        "value": "Pernambuco cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Nordeste",
+        "state": null,
+        "macro_region": "Nordeste",
+        "place": "sertão of Paraíba and Pernambuco, 1942",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Journeys & road movies",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Rural life & land",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Migration",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2007": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "Bom Retiro, 1970",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2008": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2009": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo, 2006",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2010": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "Pernambuco to São Paulo's ABC",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Migration",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Poverty & inequality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2011": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Urban violence & crime",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Prison",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2012": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Minas Gerais",
+        "state": "Minas Gerais",
+        "macro_region": "Sudeste",
+        "place": "small towns of Minas Gerais",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Journeys & road movies",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2013": [
+      {
+        "type": "movement",
+        "value": "Pernambuco cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Pernambuco",
+        "state": "Pernambuco",
+        "macro_region": "Nordeste",
+        "place": "Recife",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Class & domestic work",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2014": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "LGBTQ+ lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2015": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Class & domestic work",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Migration",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2016": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Santa Catarina",
+        "state": "Santa Catarina",
+        "macro_region": "Sul",
+        "place": "Florianópolis and at sea",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2017": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo TV, 1980s",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Media & celebrity",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2018": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Sudeste",
+        "state": null,
+        "macro_region": "Sudeste",
+        "place": "a travelling circus",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Music & performance",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2019": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro, 1950s",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2020": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "São Paulo",
+        "state": "São Paulo",
+        "macro_region": "Sudeste",
+        "place": "São Paulo",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2021": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Bahia",
+        "state": "Bahia",
+        "macro_region": "Nordeste",
+        "place": "Curitiba to the Bahia sertão",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "LGBTQ+ lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Love & sexuality",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Journeys & road movies",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2022": [
+      {
+        "type": "movement",
+        "value": "Filmes de Plástico (Minas)",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Minas Gerais",
+        "state": "Minas Gerais",
+        "macro_region": "Sudeste",
+        "place": "Contagem",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Race & Afro-Brazilian culture",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "LGBTQ+ lives",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2023": [
+      {
+        "type": "movement",
+        "value": "Pernambuco cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Pernambuco",
+        "state": "Pernambuco",
+        "macro_region": "Nordeste",
+        "place": "Recife",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "City life & modernization",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2024": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "macro_region": "Sudeste",
+        "place": "Rio de Janeiro, 1970s",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Women's lives",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Biography",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      }
+    ],
+    "br-2025": [
+      {
+        "type": "movement",
+        "value": "Pernambuco cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Pernambuco",
+        "state": "Pernambuco",
+        "macro_region": "Nordeste",
+        "place": "Recife, 1977",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Dictatorship & repression",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "theme",
+        "value": "Memory & history",
+        "source": "claude_knowledge",
+        "confidence": "medium"
+      }
+    ],
+    "br-2026": [
+      {
+        "type": "movement",
+        "value": "Contemporary cinema",
+        "source": "claude_knowledge",
+        "confidence": "high"
+      },
+      {
+        "type": "region",
+        "value": "Ceará",
+        "state": "Ceará",
+        "macro_region": "Nordeste",
+        "place": "Ceará",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Coming of age",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      },
+      {
+        "type": "theme",
+        "value": "Family",
+        "source": "claude_knowledge",
+        "confidence": "low"
+      }
+    ]
+  }
+}
